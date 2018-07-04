@@ -6,4 +6,4 @@
 
 3.了解san框架
 
-show the code "Ni Hao"
+show the text "Ni Hao"
